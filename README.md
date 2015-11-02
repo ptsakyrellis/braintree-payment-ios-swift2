@@ -4,6 +4,11 @@ This is an example of the Braintree v.zero Client SDK for processing both PayPal
 
 ## Technology
 
+Compatibility 
+
+* Xcode 7
+* Swift 2 
+
 This demo uses
 
 * iOS 7+
