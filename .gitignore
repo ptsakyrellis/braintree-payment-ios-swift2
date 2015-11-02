@@ -3,3 +3,5 @@ client/Podfile.lock
 client/Pods
 client/vzero.xcworkspace
 client/vzero.xcodeproj/xcuserdata/
+client/DerivedData/
+client/vzero.xcodeproj/project.xcworkspace/
